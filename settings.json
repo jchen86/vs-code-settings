@@ -1,4 +1,5 @@
 {
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "window.zoomLevel": 0,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true
 }
