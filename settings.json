@@ -1,17 +1,4 @@
 {
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "solidity.soliumRules": {
-        "imports-on-top": 0,
-        "variable-declarations": 0,
-        "indentation": [
-            "none",
-            2
-        ],
-        "quotes": [
-            "error",
-            "double"
-        ]
-    },
     "window.zoomLevel": 0,
-    // "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false
 }
